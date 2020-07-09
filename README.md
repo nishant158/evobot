@@ -28,8 +28,8 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ```json
 {
-  "TOKEN": "",
-  "YOUTUBE_API_KEY": "",
+  "TOKEN": "NzMwNjcxMTExNjM2OTEwMDgx.Xwa4tA.pFf3ZKei472-n9TkomTVAh5Ykio",
+  "YOUTUBE_API_KEY": "AIzaSyApkGLPPgqRzD8xpvsNe1nZgeeKFouKSsQ",
   "MAX_PLAYLIST_SIZE": 10,
   "PREFIX": "/",
   "PRUNING": false
